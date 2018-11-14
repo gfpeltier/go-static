@@ -1,0 +1,10 @@
+port: "3000"
+theme: simple
+
+index:
+  title: Grant F Peltier
+  image: assets/profile.png
+  name: Grant Peltier
+  github: https://github.com/grantpeltier
+  linkedin: https://linkedin.com
+  content: index.md

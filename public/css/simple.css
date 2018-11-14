@@ -1,0 +1,24 @@
+body{
+  font-family: Helvetica, sans-serif;
+}
+
+.container{
+  width: 100%;
+  heigt: 100%;
+  padding: 5px 20px;
+}
+
+.sidebar{
+  position: fixed;
+  width: 200px;
+  min-height: 400px;
+  height: 100vh;
+  padding: 5px;
+}
+
+.content{
+  position: relative;
+  left: 200px;
+  width: 600px;
+  height: 100vh;
+}
